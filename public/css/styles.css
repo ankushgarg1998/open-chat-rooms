@@ -188,7 +188,7 @@ button:disabled {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     bottom: 10px;
     padding: 2px 10px 2px 10px;
     border-radius: 5px;
@@ -211,9 +211,13 @@ footer p a {
         flex-direction: column
     }
     .chat__footer form {
-        margin-bottom: 10px
+        margin-bottom: 20px
     }
     .chat__footer button {
         margin-right: 0
+    }
+    footer {
+        position: relative;
+        top: 60px;
     }
 }

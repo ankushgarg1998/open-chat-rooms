@@ -6,13 +6,14 @@ Just go to [Open-Chat-Rooms](https://openchatrooms.herokuapp.com/), Choose a ran
 
 # Features
 - None of the conversation will be stored anywhere.
-- Your conversation will be vanished once and for all once everyone leaves the room.
+- Your conversation will be vanished once and for all, as soon as everyone leaves the room.
 - Anyone can join in the conversation with just the Room's name.
 - You'll see the list of people, who are in the room real-time.
+- ___[New]___ You can share a pin to your current location with the click of a button.
 
 # Upcoming Features
 - [Private Rooms] that require a password to join in.
-- List of all the currently active rooms.
+- List of all the currently active rooms with number of people in it.
 
 
 # Contribution
